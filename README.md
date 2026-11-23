@@ -5,10 +5,10 @@ Nombre del proyecto: TiendaBarrio
 
 Caso: Tienda de barrio
 
-Integrantes: Jhonier Marmol, Julian Gomez
+Integrantes: Jhonier Marmol, Diego Sepulveda
 
-Roles: Jhonier Marmol: Lider tecnico + ventanas y documentacion
-Julian Gomez: Modelos y datos + Servicios
+Roles: Jhonier Marmol: Modelos y datos + Servicios
+Diego Sepulveda: Lider tecnico + ventanas y documentacion
 
 2. 
 Funcionalidades (CRUD):
@@ -30,11 +30,11 @@ FormProducto CRUD de productos + ComboBox de categoría + validaciones
 FormReportes Muestra los 2–3 reportes LINQ (botones o pestañas)
 
 3.Reparto de archivos:
-Jhonier Marmol: Líder técnico
-Julian Gomez: Modelos/Datos + Servicios
-La documentación/ventanas se comparte, Julian también es dueño de un formulario para cumplir "todos programan"
+Jhonier Marmol: Modelos/Datos + Servicios
+Diego Sepulveda: Líder técnico
+La documentación/ventanas se comparte, jhonier también es dueño de un formulario para cumplir "todos programan"
 
-Jhonier Marmol: Líder técnico + ventanas + documentación
+Diego Sepulveda: Líder técnico + ventanas + documentación
 Archivo / clase	Capa
 Tienda.sln, Tienda.Escritorio.csproj (y referencias entre proyectos) Solución
 Paquetes NuGet: Microsoft.EntityFrameworkCore.Sqlite, Microsoft.EntityFrameworkCore.Design Setup
@@ -44,7 +44,7 @@ FormCategoria.cs Escritorio
 FormReportes.cs	Escritorio
 README.md (descripción, integrantes, cómo ejecutar, captura) Documentación
 
-Julian Gomez: Modelos/Datos + Servicios + un formulario
+Jhonier Marmol: Modelos/Datos + Servicios + un formulario
 Archivo / clase	Capa
 Categoria.cs	Modelos
 Producto.cs	Modelos
